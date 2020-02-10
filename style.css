@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+.container {
+    max-width: 1024px;
+    margin: 0 auto;
+	border:1px solid black;
+}
+.image {
+	padding: 5px;
+	position:relative;
+	float: right;
+	right:0px;
+	
+}
+h1 {
+	padding-left: 5px;
+}
